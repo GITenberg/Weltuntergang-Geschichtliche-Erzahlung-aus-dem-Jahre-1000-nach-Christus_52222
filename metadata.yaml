@@ -1,0 +1,26 @@
+_repo: Weltuntergang-Geschichtliche-Erzahlung-aus-dem-Jahre-1000-nach-Christus_52222
+_version: 0.0.1
+alternative_title: Welt-Untergang
+creator:
+  author:
+    agent_name: Dahn, Felix
+    birthdate: 1834
+    deathdate: 1912
+    gutenberg_agent_id: '31889'
+    url: http://www.gutenberg.org/2009/agents/31889
+    wikipedia: http://en.wikipedia.org/wiki/Felix_Dahn
+description: ''
+gutenberg_issued: '2016-06-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52222'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Middle Ages -- Fiction'
+- !lcc 'PT'
+- GITenberg
+title: 'Weltuntergang: Geschichtliche Erzählung aus dem Jahre 1000 nach Christus'
+url: http://www.gutenberg.org/ebooks/52222
