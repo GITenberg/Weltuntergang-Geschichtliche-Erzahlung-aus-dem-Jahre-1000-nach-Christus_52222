@@ -1,6 +1,9 @@
 _repo: Weltuntergang-Geschichtliche-Erzahlung-aus-dem-Jahre-1000-nach-Christus_52222
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Welt-Untergang
+covers:
+- cover_type: archival
+  image_path: 52222-h/images/cover.jpg
 creator:
   author:
     agent_name: Dahn, Felix
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/31889
     wikipedia: http://en.wikipedia.org/wiki/Felix_Dahn
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52222#Weltuntergang-Geschichtliche-Erzahlung-aus-dem-Jahre-1000-nach-Christus
 gutenberg_issued: '2016-06-02'
 gutenberg_type: Text
 identifiers:
